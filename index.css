@@ -1,0 +1,18 @@
+
+.body-container{
+    display: flex;
+   border: 2px solid black;
+   
+}
+.card:hover{
+    background-color: #f0f0f0;
+}
+.footer{
+   display: flex;
+   
+}
+.foot-right{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
